@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=MountIso Installer
+Keywords=conky;
+Exec=sh -c "sh $(dirname "%k")/.install.sh"
+Icon=system-software-install
+NoDisplay=true

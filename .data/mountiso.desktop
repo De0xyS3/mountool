@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Mount Iso
+Keywords=iso;mount
+Exec=/opt/debiantools/mountiso_as_root.sh
+Icon=gnome-dev-dvd
+Categories=GTK;Utility;Archiving;Compression
+MimeType=application/x-cd-image
+
